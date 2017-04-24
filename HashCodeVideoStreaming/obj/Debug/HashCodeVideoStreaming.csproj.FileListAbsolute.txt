@@ -1,0 +1,6 @@
+c:\users\akin\documents\visual studio 2015\Projects\HashCodeVideoStreaming\HashCodeVideoStreaming\bin\Debug\HashCodeVideoStreaming.exe.config
+c:\users\akin\documents\visual studio 2015\Projects\HashCodeVideoStreaming\HashCodeVideoStreaming\bin\Debug\HashCodeVideoStreaming.exe
+c:\users\akin\documents\visual studio 2015\Projects\HashCodeVideoStreaming\HashCodeVideoStreaming\bin\Debug\HashCodeVideoStreaming.pdb
+c:\users\akin\documents\visual studio 2015\Projects\HashCodeVideoStreaming\HashCodeVideoStreaming\obj\Debug\HashCodeVideoStreaming.csprojResolveAssemblyReference.cache
+c:\users\akin\documents\visual studio 2015\Projects\HashCodeVideoStreaming\HashCodeVideoStreaming\obj\Debug\HashCodeVideoStreaming.exe
+c:\users\akin\documents\visual studio 2015\Projects\HashCodeVideoStreaming\HashCodeVideoStreaming\obj\Debug\HashCodeVideoStreaming.pdb
